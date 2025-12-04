@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resimler">
+        <file>resimler/0.jpg</file>
+        <file>resimler/patlamis.png</file>
+    </qresource>
+</RCC>
